@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Sprites>
+	<Sprite name="furn_SteelDoor_" x="0" y="192" w="32" h="32" />
+	<Sprite name="furn_SteelDoor_openness_1" x="0" y="160" w="32" h="32" />
+	<Sprite name="furn_SteelDoor_openness_2" x="0" y="128" w="32" h="32" />
+	<Sprite name="furn_SteelDoor_openness_3" x="0" y="96" w="32" h="32" />
+	<Sprite name="furn_SteelDoor_openness_4" x="0" y="64" w="32" h="32" />
+	<Sprite name="furn_SteelDoor_openness_5" x="0" y="32" w="32" h="32" />
+	<Sprite name="furn_SteelDoor_openness_6" x="0" y="0" w="32" h="32" />
+</Sprites>

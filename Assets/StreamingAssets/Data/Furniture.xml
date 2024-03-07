@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Furnitures>
+    <Furniture type="furn_SteelWall">
+        <Name>Steel Wall</Name>
+		<MovementCost>0</MovementCost>
+		<Width>1</Width>
+		<Height>1</Height>
+		<LinksToNeighbours>true</LinksToNeighbours>
+
+		<BuildingJob jobTime="1">
+			<Inventory objectType="Steel" amount="4"/>
+		</BuildingJob>
+
+	</Furniture>
+
+	<Furniture type="furn_SteelDoor">
+		<Name>Door</Name>
+		<MovementCost>1</MovementCost>
+		<Width>1</Width>
+		<Height>1</Height>
+		<LinksToNeighbours>false</LinksToNeighbours>
+
+		<BuildingJob jobTime="1"></BuildingJob>
+
+		<Params>
+			<Param name="openness" value="0"/>
+			<Param name="is_opening" value="0"/>
+		</Params>
+
+	</Furniture>
+
+	<Furniture type="furn_Oxygen_Generator">
+		<Name>Oxygen Generator</Name>
+		<MovementCost>10</MovementCost>
+		<Width>2</Width>
+		<Height>2</Height>
+		<LinksToNeighbours>false</LinksToNeighbours>
+
+		<BuildingJob jobTime="1"></BuildingJob>
+
+		<BuildingJob jobTime="1">
+			<Inventory objectType="Steel" amount="8"/>
+		</BuildingJob>
+	</Furniture>
+	
+</Furnitures>

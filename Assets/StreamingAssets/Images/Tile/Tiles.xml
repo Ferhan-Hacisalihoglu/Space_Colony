@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Sprites>
+	<Sprite name="Null" x="0" y="0" w="32" h="32" />
+	<Sprite name="SteelGround" x="32" y="0" w="32" h="32" />
+</Sprites>
