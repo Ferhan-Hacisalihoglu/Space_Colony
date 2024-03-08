@@ -1,10 +1,10 @@
 # Space_Colony
 
-İngilizce Açıklama:
+## İngilizce Açıklama:
 
 This project is a 2D colony-building game that I worked on previously but have decided not to continue developing. The game features a colonist who can be assigned construction tasks, gather resources, build structures, and navigate through paths and gates.
 
-Features:
+### Features:
 
 Colonist Management: Players can assign construction tasks to colonists who will gather required resources and construct buildings accordingly.
 Resource Gathering: Colonists collect resources from the environment to fulfill construction requirements.
@@ -13,11 +13,11 @@ Pathfinding System: Colonists navigate through the environment using a pathfindi
 Gate System: The game includes a gate system that allows controlled access to certain areas.
 Note: This project is no longer actively maintained or developed. Feel free to use the existing codebase for educational or reference purposes.
 
-Türkçe Açıklama:
+## Türkçe Açıklama:
 
 Bu proje, önceden üzerinde çalıştığım ancak geliştirmeye devam etmeme kararı aldığım 2D bir koloni kurma oyunudur. Oyunda bir kolonist bulunmakta ve bu koloniste inşaat görevleri atayabilir, kaynakları toplayabilir, yapı inşa edebilir ve yol bulma ve kapı sistemleri ile yönlendirilebilir.
 
-Özellikler:
+### Özellikler:
 
 Kolonist Yönetimi: Oyuncular, kolonistlere inşaat görevleri atayabilir ve bu görevler doğrultusunda gereken kaynakları toplayarak yapılar inşa edebilirler.
 Kaynak Toplama: Kolonistler, inşaat gereksinimlerini karşılamak için çevreden kaynakları toplar.
