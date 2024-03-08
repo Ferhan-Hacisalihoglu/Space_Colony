@@ -11,6 +11,7 @@ Resource Gathering: Colonists collect resources from the environment to fulfill 
 Construction: Buildings are constructed by colonists based on assigned tasks and available resources.
 Pathfinding System: Colonists navigate through the environment using a pathfinding system to reach their destinations efficiently.
 Gate System: The game includes a gate system that allows controlled access to certain areas.
+
 Note: This project is no longer actively maintained or developed. Feel free to use the existing codebase for educational or reference purposes.
 
 ## Türkçe Açıklama:
@@ -24,4 +25,5 @@ Kaynak Toplama: Kolonistler, inşaat gereksinimlerini karşılamak için çevred
 İnşaat: Yapılar, atanan görevler ve mevcut kaynaklar doğrultusunda kolonistler tarafından inşa edilir.
 Yol Bulma Sistemi: Kolonistler, hedeflerine etkili bir şekilde ulaşmak için bir yol bulma sistemi kullanarak çevrede hareket ederler.
 Kapı Sistemi: Oyun, belirli alanlara kontrollü erişim sağlayan bir kapı sistemi içerir.
+
 Not: Bu proje artık aktif olarak bakımı yapılmamaktadır veya geliştirilmemektedir. Mevcut kod tabanını eğitim veya referans amaçlarıyla özgürce kullanabilirsiniz.
