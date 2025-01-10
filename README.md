@@ -1,29 +1,24 @@
-# Space_Colony
+English Description:
 
-## İngilizce Açıklama:
+Space Colony is a 2D colony-building game I previously worked on but decided not to continue developing. The game centers around a colonist who can perform various tasks such as constructing buildings, gathering resources, and navigating the environment through paths and gates.
+Features:
 
-This project is a 2D colony-building game that I worked on previously but have decided not to continue developing. The game features a colonist who can be assigned construction tasks, gather resources, build structures, and navigate through paths and gates.
+- Colonist Management: Assign tasks to colonists to gather resources and construct buildings based on the requirements.
+- Construction System: Colonists build structures by following assigned tasks and utilizing available resources.
+- Pathfinding System: Efficient navigation through the environment using an implemented pathfinding system.
+- Gate System: Controlled access to specific areas via a functional gate system.
+- Save and Load Feature: Players can save their game progress and resume later, with the system preserving colonist positions, built structures, resources, and settings.
 
-### Features:
+Note: This project is no longer actively maintained or developed. The existing codebase is available for educational purposes or as a reference for your projects.
+Türkçe Açıklama:
 
-Colonist Management: Players can assign construction tasks to colonists who will gather required resources and construct buildings accordingly.
-Construction: Buildings are constructed by colonists based on assigned tasks and available resources.
-Pathfinding System: Colonists navigate through the environment using a pathfinding system to reach their destinations efficiently.
-Gate System: The game includes a gate system that allows controlled access to certain areas.
-Save Load : Implemented a save/load system allowing players to save their game progress and resume it later. This feature captures and restores the game state, including colonist positions, constructed buildings, resources, and game settings.
+Space Colony, daha önce üzerinde çalıştığım ancak geliştirmeyi durdurmaya karar verdiğim 2D bir koloni kurma oyunudur. Oyunda bir kolonist, çeşitli görevler üstlenerek yapı inşa edebilir, kaynak toplayabilir ve yollar ve kapılar aracılığıyla çevrede hareket edebilir.
+Özellikler:
 
-Note: This project is no longer actively maintained or developed. Feel free to use the existing codebase for educational or reference purposes.
+- Kolonist Yönetimi: Kolonistlere görev atayarak ihtiyaç duyulan kaynakları toplamalarını ve yapı inşa etmelerini sağlayabilirsiniz.
+- İnşaat Sistemi: Kolonistler, atanan görevlere ve mevcut kaynaklara göre yapı inşa eder.
+- Yol Bulma Sistemi: Kolonistler, çevrede etkili bir şekilde hareket etmek için bir yol bulma sistemi kullanır.
+- Kapı Sistemi: Belirli alanlara kontrollü erişim sağlayan bir kapı sistemi bulunmaktadır.
+- Kaydet ve Yükle Özelliği: Oyun ilerlemenizi kaydedip daha sonra devam edebilmenizi sağlar. Bu sistem, kolonist pozisyonlarından inşa edilmiş yapılara, kaynaklara ve oyun ayarlarına kadar tüm oyun durumunu kaydeder ve geri yükler.
 
-## Türkçe Açıklama:
-
-Bu proje, önceden üzerinde çalıştığım ancak geliştirmeye devam etmeme kararı aldığım 2D bir koloni kurma oyunudur. Oyunda bir kolonist bulunmakta ve bu koloniste inşaat görevleri atayabilir, kaynakları toplayabilir, yapı inşa edebilir ve yol bulma ve kapı sistemleri ile yönlendirilebilir.
-
-### Özellikler:
-
-Kolonist Yönetimi: Oyuncular, kolonistlere inşaat görevleri atayabilir ve bu görevler doğrultusunda gereken kaynakları toplayarak yapılar inşa edebilirler.
-İnşaat: Yapılar, atanan görevler ve mevcut kaynaklar doğrultusunda kolonistler tarafından inşa edilir.
-Yol Bulma Sistemi: Kolonistler, hedeflerine etkili bir şekilde ulaşmak için bir yol bulma sistemi kullanarak çevrede hareket ederler.
-Kapı Sistemi: Oyun, belirli alanlara kontrollü erişim sağlayan bir kapı sistemi içerir.
-Kaydet Yükle : Oyuncuların oyun ilerlemelerini kaydedip daha sonra devam ettirebilmelerini sağlayan bir kaydet/yükle sistemi uygulandı. Bu özellik, kolonist pozisyonlarından inşa edilmiş yapılarına, kaynaklara ve oyun ayarlarına kadar oyun durumunu yakalar ve geri yükler.
-
-Not: Bu proje artık aktif olarak bakımı yapılmamaktadır veya geliştirilmemektedir. Mevcut kod tabanını eğitim veya referans amaçlarıyla özgürce kullanabilirsiniz.
+Not: Bu proje artık aktif olarak geliştirilmiyor veya desteklenmiyor. Mevcut kod tabanı, eğitim amaçlı veya referans olarak kullanılmak üzere serbestçe kullanılabilir.
