@@ -6,7 +6,7 @@ Space Colony is a 2D colony-building game I previously worked on but decided not
 
 ### 🌟 Features:
 
-- **👷 Colonist Management:** Assign tasks to colonists to gather resources and construct buildings based on the requirements.
+- **👷 Colonist Management :** Assign tasks to colonists to gather resources and construct buildings based on the requirements.
 - **🏗️ Construction System :** Colonists build structures by following assigned tasks and utilizing available resources.
 - **🗺️ Pathfinding System :** Efficient navigation through the environment using an implemented pathfinding system.
 - **🚪 Gate System :** Controlled access to specific areas via a functional gate system.
