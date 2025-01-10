@@ -12,7 +12,7 @@ Space Colony is a 2D colony-building game I previously worked on but decided not
 - **🚪 Gate System :** Controlled access to specific areas via a functional gate system.
 - **💾 Save and Load Feature :** Players can save their game progress and resume later, with the system preserving colonist positions, built structures, resources, and settings.
 
-📌 Note: This project is no longer actively maintained or developed. The existing codebase is available for educational purposes or as a reference for your projects.
+**📌 Note:** This project is no longer actively maintained or developed. The existing codebase is available for educational purposes or as a reference for your projects.
 
 ---
 
@@ -28,4 +28,4 @@ Space Colony, daha önce üzerinde çalıştığım ancak geliştirmeyi durdurma
 - **🚪 Kapı Sistemi :** Belirli alanlara kontrollü erişim sağlayan bir kapı sistemi bulunmaktadır.
 - **💾 Kaydet ve Yükle Özelliği :** Oyun ilerlemenizi kaydedip daha sonra devam edebilmenizi sağlar. Bu sistem, kolonist pozisyonlarından inşa edilmiş yapılara, kaynaklara ve oyun ayarlarına kadar tüm oyun durumunu kaydeder ve geri yükler.
 
-📌 Not: Bu proje artık aktif olarak geliştirilmiyor veya desteklenmiyor. Mevcut kod tabanı, eğitim amaçlı veya referans olarak kullanılmak üzere serbestçe kullanılabilir.
+**📌 Not:** Bu proje artık aktif olarak geliştirilmiyor veya desteklenmiyor. Mevcut kod tabanı, eğitim amaçlı veya referans olarak kullanılmak üzere serbestçe kullanılabilir.
